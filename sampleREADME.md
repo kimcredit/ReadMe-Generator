@@ -1,7 +1,7 @@
 
 # My Fake Project
 
-[MIT](https://img.shields.io/badge/license-MIT-9cf)
+![MIT](https://img.shields.io/badge/license-MIT-9cf)
 
 # Description
 A fake application I've made up to demonstrate how my ReadMe Generator works
