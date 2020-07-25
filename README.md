@@ -1,10 +1,8 @@
 
-# ReadMe Generator
-
-![MIT](https://img.shields.io/badge/license-MIT-9cf)
+# Readme Generator
 
 # Description
-A simple application that automatically generates a readme based on user inputs
+A CLI application that generates a github readme based on user input. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,21 +13,13 @@ A simple application that automatically generates a readme based on user inputs
 * [Questions](#questions)
 
 ## Installation 
-download from github and install inquirer dependency
+This application requires the dependency inquirer.
 
 ## Usage
-skip
+When the user has the application downloaded, they will run the index.js file through their command line. 
+They will then be prompted to provide information about their project, including a title, description, installation instrucitons, usage information, licenses, contributions instructions, tests, and their email and github username. 
 
-## Licenses 
-This application is covered under MIT.
+The application then takes all of their provided information and generates a clean, organized readme including all information they provided as well as a functioning table of contents, a badge for their selected license, and a link to their github page. 
 
-## Contributions
-skip
-
-## Tests
-I wrote no tests
-
-## Questions
-Have questions about this application? Reach out at <jane-doe@gmail.com>.
-
-You can also see some of my other work at <https://github.com/jane-doe>.    
+## Other Work
+You can see some of my other work at <https://github.com/kimcredit>.    
