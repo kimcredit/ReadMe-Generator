@@ -5,7 +5,7 @@ function generateMarkdown(answers) {
 let licenseBadge;
 
  if (answers.license[0] === "Apache 2") {
-  licenseBadge = "![Apache 2](https://img.shields.io/badge/license-Apache%202-9cf";
+  licenseBadge = "![Apache 2](https://img.shields.io/badge/license-Apache%202-9cf)";
 } else if (answers.license[0] === "MIT") {
   licenseBadge = "![MIT](https://img.shields.io/badge/license-MIT-9cf)";
 } else if (answers.license[0] === "GPL") {
@@ -26,7 +26,7 @@ ${answers.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributors](#contributors)
+* [Contributions](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -37,10 +37,10 @@ ${answers.installation}
 ${answers.usage}
 
 ## Licenses 
-${answers.license}
+This application is covered under ${answers.license}.
 
-## Contributors
-${answers.contributors}
+## Contributions
+${answers.contributions}
 
 ## Tests
 ${answers.tests}

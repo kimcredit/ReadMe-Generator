@@ -1,29 +1,35 @@
 
-# sdfs
+# ReadMe Generator
 
+![MIT](https://img.shields.io/badge/license-MIT-9cf)
 
-
-#Description
-sd
+# Description
+A simple application that automatically generates a readme based on user inputs
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributors](#contributors)
+* [Contributions](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation 
-fsdf
+download from github and install inquirer dependency
 
 ## Usage
+skip
 
-## License 
+## Licenses 
+This application is covered under MIT.
 
-## Contributors
+## Contributions
+skip
 
 ## Tests
+I wrote no tests
 
-## Any Questions? 
+## Questions
+Have questions about this application? Reach out at <jane-doe@gmail.com>.
 
+You can also see some of my other work at <https://github.com/jane-doe>.    

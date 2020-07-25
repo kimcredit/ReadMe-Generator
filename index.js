@@ -30,8 +30,8 @@ function askQuestions() {
       },
       {
         type: "input",
-        name: "contributors",
-        message: "Please list any contributors for this project"
+        name: "contributions",
+        message: "Please give information about contribution guidelines"
       },
       {
         type: "input",
@@ -63,14 +63,14 @@ function askQuestions() {
 
 // function to write README file
 function writeToFile(data) {
-  writeFileAsync("genreadme.md", data);
+  writeFileAsync("README.md", data);
 }
 
 // function to initialize programs
 function init() {
   askQuestions ()
   .then(function (answers) {
-  writeToFile(markdown(answers));
+    writeToFile(markdown(answers));
   })
 }
 
