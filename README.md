@@ -13,4 +13,7 @@ They will then be prompted to provide information about their project, including
 The application then takes all of their provided information and generates a clean, organized readme including all information they provided as well as a functioning table of contents, a badge for their selected license, and a link to their github page. 
 
 ## Other Work
+View a video tutorialto see the application in action at <https://www.youtube.com/watch?v=ghNuRlpcImc&t=31s>.
+
+## Other Work
 You can see some of my other work at <https://github.com/kimcredit>.    
